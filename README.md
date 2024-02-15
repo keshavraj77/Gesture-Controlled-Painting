@@ -1,4 +1,4 @@
-# Virtual Ai Pinting
+# Virtual Ai Painting
 
 Project Description:
 The "Virtual AI Painter" is an innovative project aimed at leveraging cutting-edge technologies to create a virtual painting experience. This project harnesses the power of Python, OpenCV, and Mediapipe to enable users to paint on a digital canvas using hand gestures.
